@@ -14,6 +14,3 @@ def process(query,model):
     content=scrape_text(query)
     output=analyze_reviews_with_gemini(query,content[0],content[1],content[2],content[3],model)
     return output
-
-res=process('what is ml',gemini_model)
-print(res)
