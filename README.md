@@ -30,3 +30,8 @@
 3. Input your search query.
 
 4. Click the "Search" button to get analyzed results.
+
+## Features
+- Web scraping from DuckDuckGo to gather content from the top search results.
+- Analysis of the gathered content using a generative AI model (Google Gemini).
+- User-friendly interface built with Streamlit for easy interaction.
