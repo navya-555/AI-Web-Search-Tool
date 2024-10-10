@@ -20,3 +20,11 @@
     ```bash
     streamlit run application.py
     ```
+
+## Usage
+
+1. Upload your PDF documents in the sidebar.
+
+2. Enter your question in the text input box.
+
+3. Click the "Process" button to generate a response.
