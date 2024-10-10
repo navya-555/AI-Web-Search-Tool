@@ -60,4 +60,5 @@ The AI Web Search Tool is a smart search companion that utilizes web scraping an
   - Built using Streamlit, providing an interactive interface for users to input their queries and view results.
   - Handles API key input securely and manages error handling.
 
-## Link - https://questai.streamlit.app/
+## Link
+https://questai.streamlit.app/
