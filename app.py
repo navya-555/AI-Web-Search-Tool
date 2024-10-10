@@ -5,7 +5,7 @@ import google.generativeai as genai
 
 def main():
     # Streamlit page configuration
-    st.set_page_config(page_title="AI Web Search Tool",
+    st.set_page_config(page_title="QuestAI",
                         page_icon="🔍",
                         layout='centered',
                         initial_sidebar_state='collapsed')
