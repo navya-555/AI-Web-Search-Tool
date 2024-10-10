@@ -23,8 +23,8 @@
 
 ## Usage
 
-1. Upload your PDF documents in the sidebar.
+1. Enter your google api key .
 
-2. Enter your question in the text input box.
+2. Enter your query in the text input box.
 
-3. Click the "Process" button to generate a response.
+3. Click the "Search" button to generate a response.
