@@ -23,8 +23,10 @@
 
 ## Usage
 
-1. Enter your google api key .
+1. Set Up Your Google API Key: Make sure you have a valid Google API key to access the generative AI model.
 
-2. Enter your query in the text input box.
+2. Enter your Google API key.
+     
+3. Input your search query.
 
-3. Click the "Search" button to generate a response.
+4. Click the "Search" button to get analyzed results.
