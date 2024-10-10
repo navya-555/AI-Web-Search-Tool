@@ -1,6 +1,3 @@
-from scrape import scrape_text
-
-
 
 def analyze_reviews_with_gemini(query,text1,text2,text3,text4,model):
     prompt = f"""
