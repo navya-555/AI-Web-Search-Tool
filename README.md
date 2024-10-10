@@ -1,4 +1,5 @@
 # AI-Web-Search-Tool
+The AI Web Search Tool is a smart search companion that utilizes web scraping and generative AI to analyze and summarize content from various sources based on user queries. It combines results from multiple websites to provide a concise output.
 
 ## Installation
 
